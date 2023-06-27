@@ -20,4 +20,4 @@ Since my high school years, I have been passionate about Cyber Security and Soft
 
 I look forward to continuing my journey, learning, and contributing to the world of technology.
 
-**[CV_AhmetErenBoyaci](https://github.com/aeboyaci/aeboyaci/files/11879838/CV_AhmetErenBoyaci-2.pdf)**
+**[CV_AhmetErenBoyaci](./CV_AhmetErenBoyaci-2.pdf)**
