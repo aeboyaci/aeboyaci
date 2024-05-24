@@ -8,12 +8,12 @@
 
 ## About Me:
 
-I am a Software Engineer, currently residing in Ankara, Turkey. I am always on the lookout for new challenges and opportunities. I have a deep interest in learning new technologies and constantly strive to enhance my skills.
+I am a Software Engineer currently residing in Ankara, Turkey. I am always on the lookout for new challenges and opportunities to learn new technologies and enhance my skills. In my professional career, I have gained extensive experience working with backend development and I have a particular fondness for using Go for backend development, while JavaScript, along with libraries like React and frameworks such as NextJS, are my go-to tools for frontend work. I am currently working with PostgreSQL and MongoDB databases, and I am very enthusiastic about leveraging these technologies in my projects.
 
-My journey with programming has been a significant part of my life. My passion for programming was ignited during my B.S. in Computer Engineering at TOBB University of Economics and Technology. In my professional career and everyday life, I use Go, JavaScript, and TypeScript. I have a particular fondness for Go for backend development. JavaScript and its libraries like React, along with NextJS, are usually my go-to for front-end work. I am currently working with PostgreSQL and MongoDB databases and am very enthusiastic about it.
+Since my high school years, I have been passionate about Cyber Security and Software Engineering. This early interest drove me to actively seek out opportunities to learn and grow in these fields. My journey with programming has been a significant part of my life, and it truly took off during my B.S. in Computer Engineering at TOBB University of Economics and Technology, where my passion for programming was ignited.
 
-Since my high school years, I have been passionate about Cyber Security and Software Engineering. I have dedicated myself to honing my skills and knowledge in these fields. Through actively participating in workshops, training, and professional events, I have built a strong foundation and taken on responsibilities to enhance my expertise further. My ultimate goal is to become an expert in Cyber Security and Software Engineering by continuously improving and expanding my skill set.
+Throughout my career, I have dedicated myself to honing my skills in Cyber Security and Software Engineering. I actively participate in workshops, training sessions, and professional events to build a strong foundation and continuously expand my expertise. My ultimate goal is to become an expert in these fields, and I am committed to continuously improving and expanding my skill set.
 
-I look forward to continuing my journey, learning, and contributing to the world of technology.
+I look forward to continuing my journey in the tech industry, learning new things, and contributing to the world of technology.
 
 **[CV_AhmetErenBoyaci](./CV_AhmetErenBoyaci.pdf)**
