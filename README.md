@@ -12,7 +12,7 @@ I am a Software Engineer currently residing in Ankara, Turkey. I am always on th
 
 Since my high school years, I have been passionate about Cyber Security and Software Engineering. This early interest drove me to actively seek out opportunities to learn and grow in these fields. My journey with programming has been a significant part of my life, and it truly took off during my B.S. in Computer Engineering at TOBB University of Economics and Technology, where my passion for programming was ignited.
 
-Throughout my career, I have dedicated myself to honing my skills in Cyber Security and Software Engineering. I actively participate in workshops, training sessions, and professional events to build a strong foundation and continuously expand my expertise. My ultimate goal is to become an expert in these fields, and I am committed to continuously improving and expanding my skill set.
+Throughout university and my career, I have dedicated myself to honing my skills in Cyber Security and Software Engineering. I actively participate in workshops, training sessions, and professional events to build a strong foundation and continuously expand my expertise. My ultimate goal is to become an expert in these fields, and I am committed to continuously improving and expanding my skill set.
 
 I look forward to continuing my journey in the tech industry, learning new things, and contributing to the world of technology.
 
