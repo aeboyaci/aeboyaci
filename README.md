@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Eren BOYACI</h1>
-<h3 align="center">Software Engineer at Picus Security</h3>
+<h3 align="center">Software Engineer at Midas</h3>
 
 📫 How to reach me: **ahmeterenboyaci45@gmail.com**
 
